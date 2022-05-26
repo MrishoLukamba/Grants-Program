@@ -229,7 +229,7 @@ rolesFd_mod_rs -- NfT_type
 
 The **techstack** that is currently focused on:
 - Substrate node, substrate pallets and customized pallets based on FS logic
-- Front-end template connected through WS,  Polkadot.js for testing specific features through the extensics.
+- Front-end template connected through WS,  Polkadot.js for testing specific features through the extrinsics.
 
 We are building this system so we can publish it as a live project and invite the engaged organizations such as the municipalities and the housing coops, housing corporations to use it, co- create simulations against current financing structures and trigger user based feedback.  We want to go first for a live testnet where further testing, experimenting, coordination can take place on. This will give us the time to focus and iterate again after completion of all milestones.
 
@@ -247,7 +247,7 @@ The target audience for using the developed pallets are the end-users such as in
 
 - What need(s) does your project meet?
 
-FS project focuses is on utilizing the available building blocks that are known in the cryptospace to make affordable housing possible with maximum as possible transparancy, while respecting pseudonimity of the users. The real world integration of blockchains are still minimal. We have payments for pyshical goods, but nothing really interacting with the real world, business and retailers. We believe that crypto systems implementation will look very different 5-10 years from now, we hope kick-start that of by focusing on a real-world problem. For now the need is for the solution just to be functional, but combined with good token-design fair distributions that gives access to equitable systems for future users.
+FS project focuses is on utilizing the available building blocks that are known in the cryptospace to make affordable housing possible with maximum as possible transparancy, while respecting pseudonimity of the users. The real world integration of blockchains are still minimal. We have payments for physical goods, but nothing really interacting with the real world, business and retailers. We believe that crypto systems implementation will look very different 5-10 years from now, we hope kick-start that of by focusing on a real-world problem. For now the need is for the solution just to be functional, but combined with good token-design fair distributions that gives access to equitable systems for future users.
 
 - Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
 
